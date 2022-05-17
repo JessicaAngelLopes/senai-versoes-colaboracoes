@@ -115,7 +115,7 @@ total = 0;
 while(total <10){
     total += valor[i]; i++;
 }
-document.write("Total="+ total); // resultado : total = 100
+document.write("Total="+ total); // resultado : total = 10
 
 
 
