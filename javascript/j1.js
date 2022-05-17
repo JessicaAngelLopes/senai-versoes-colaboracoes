@@ -111,9 +111,9 @@ document.write ("O preço do dia é:" + precoDia[xDia]);*/
 //Loop while
 valor = new Array (3,2,4,1,5);
 i=0;
-totak = 0;
+total = 0;
 while(total <10){
-    total + = valor[i]; i++;
+    total += valor[i]; i++;
 }
 document.write("Total="+ total); // resultado : total = 100
 
